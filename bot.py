@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Telegram Bot API Key (Verdiğiniz Telegram API anahtarını burada kullanıyoruz)
-API_KEY = '7749848858:AAEl6HBZaHW8ylrl4-Mheg9wGOnoxILkhKo'  # Kendi bot API'nizi buraya ekledim
+API_KEY = 'Api Key'  # Kendi bot API'nizi buraya ekledim
 
 # Halk erişimine açık RPC Bağlantıları (Mainnet Ağları)
 w3_connections = {
